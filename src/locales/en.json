@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the controls, exploration habits, and puzzle logic that make Sublustrum approachable from your very first scene."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Puzzle Solutions",
+          "description": "Break down the device, symbol, and environmental puzzles with practical strategies instead of brute force."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Full Walkthrough",
+          "description": "Follow a scene-by-scene route through the game for the moments when a room refuses to give up its secret."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Sublustrum."
+          "title": "Ending Explained",
+          "description": "Understand the ambiguous finale, the story's dream logic, and what the documents were really telling you."
         }
       ]
     },
@@ -66,237 +66,311 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Puzzle Solutions",
+        "Full Walkthrough",
+        "Ending Explained"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Explore the controls, exploration habits, and puzzle logic that make Sublustrum approachable from the first scene.",
+          "href": "/guide/sublustrum-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Puzzle Solutions",
+          "description": "Device, symbol, and environmental puzzle solutions explained without brute force.",
+          "href": "/guide/sublustrum-puzzle-solutions"
+        },
+        {
+          "badge": "Popular",
+          "title": "Full Walkthrough",
+          "description": "A scene-by-scene route through Sublustrum when a room refuses to give up its secret.",
+          "href": "/guide/sublustrum-walkthrough"
+        },
+        {
+          "badge": "New",
+          "title": "Story Explained",
+          "description": "How Sublustrum delivers its narrative through place, documents, and dream logic.",
+          "href": "/mechanics/sublustrum-story"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Ending Explained",
+          "description": "What the ambiguous finale of Sublustrum leaves open and why that is the point.",
+          "href": "/guide/sublustrum-ending-explained"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Atmosphere & Horror",
+          "description": "Why Sublustrum unsettles through silence, light, and ambiguity instead of jump scares.",
+          "href": "/mechanics/sublustrum-atmosphere"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Release Date",
+          "description": "What is known about the Sublustrum release date, regions, and digital re-releases.",
+          "href": "/details/sublustrum-release-date"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Platforms & Systems",
+          "description": "Supported platforms for Sublustrum and the workarounds for legacy PCs.",
+          "href": "/details/sublustrum-platforms"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Official Trailer",
+          "description": "Break down the dialogue-free Sublustrum trailer and its monochrome art direction.",
+          "href": "/media/sublustrum-trailer"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Sublustrum?",
       "paragraphs": [
-        "Sublustrum is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Sublustrum is a first-person point-and-click adventure game developed by the small independent studio Phantomery Interactive and originally released in 2008. It trades combat, leveling, and objective markers for atmospheric exploration across static, pre-rendered scenes that you rotate, examine, and slowly piece together.",
+        "The story is told sideways through architecture, documents, and dreamlike sequences rather than cutscenes. Our Sublustrum Wiki collects walkthroughs, puzzle solutions, story breakdowns, and platform notes so you can stay lost in the atmosphere instead of lost in the interface."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Phantomery Interactive"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows PC"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Point-and-Click Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release",
+          "value": "2008"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Perspective",
+          "value": "Node-Based First Person"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Combat",
+          "value": "None"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Sublustrum Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Sublustrum is a slow, atmospheric adventure built on observation and puzzle logic. These modules gather the story background, beginner habits, puzzle families, release details, and media that new players search for first.",
       "modules": [
         {
           "order": 1,
-          "name": "Sublustrum Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/sublustrum-codes",
-          "displayType": "code-box",
+          "name": "Sublustrum Story Guide",
+          "description": "This module explains the game's narrative background, its isolated setting, and the major story themes. It helps players understand the psychological adventure structure before playing.",
+          "href": "/mechanics/sublustrum-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Narrative",
+              "detail": "The story arrives through places, documents, and dream logic rather than cutscenes or narration."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Isolation",
+              "detail": "Empty rooms and absent characters build a quiet, unsettling sense of solitude."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Memory",
+              "detail": "Ruined spaces and incomplete records carry the theme of memory and decay."
+            },
+            {
+              "label": "Ambiguity",
+              "detail": "The ending resists a single reading and rewards patient reflection."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/sublustrum-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Sublustrum Beginner Guide",
+          "description": "A beginner-friendly guide covering basic gameplay concepts, exploration methods, puzzle-solving approach, and important things new players should know. It targets users searching how to start and how the game works.",
+          "href": "/guide/sublustrum-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Rotate a full 360 degrees in every scene so no hotspot hides behind the default camera."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Look up and down at each view; ceilings, floors, and shelves hold items."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Examine every hotspot, even the dull ones, because some objects only matter later."
+            },
+            {
+              "label": "4",
+              "detail": "Read every readable document fully and note the codes, symbols, and dates inside."
+            },
+            {
+              "label": "5",
+              "detail": "Record symbols, numbers, and colors; the game rarely repeats its clues for you."
+            },
+            {
+              "label": "6",
+              "detail": "Keep multiple save slots and rotate them before attempting anything destructive."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/sublustrum-tier-list",
+          "name": "Sublustrum Puzzle Guide",
+          "description": "This section provides solutions and explanations for the game's sound-based puzzles, environmental interactions, and device challenges. It ranks the puzzle families by how often they stall new players.",
+          "href": "/mechanics/sublustrum-puzzles",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Environmental observation — hidden switches and light or sound cues stall the most players."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Symbol and cipher — glyph sequences and matching marks demand careful note-taking."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Spatial alignment — rotating rings and mirrored paths test mental rotation."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Mechanical devices — dials, levers, and valves solved by tracing cause and effect."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/sublustrum-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Sublustrum Gameplay Features",
+          "description": "A structured overview of gameplay systems including first-person exploration, atmospheric investigation, document reading, and sound-driven mechanics. This module targets searches about gameplay and mechanics.",
+          "href": "/mechanics/sublustrum-atmosphere",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Explore",
+              "detail": "Node-based first-person movement between static, pre-rendered viewpoints."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Inspect",
+              "detail": "A cursor that changes shape marks the interactive hotspots in every scene."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Documents",
+              "detail": "Notes and records carry backstory, clues, and deliberately contradicting accounts."
+            },
+            {
+              "label": "Sound",
+              "detail": "Ambient drones and long silences work as navigation cues, not just atmosphere."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/sublustrum-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Sublustrum Release Information",
+          "description": "This module collects release details, regions, digital storefront history, and patch notes. It helps capture users searching for release date and availability details.",
+          "href": "/details/sublustrum-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Release",
+              "detail": "The original Windows PC release is generally placed in 2008, followed by digital re-releases."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Regions",
+              "detail": "The Russian-language release came first, with English editions arriving afterward."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Stores",
+              "detail": "Digital storefront pages were added years after launch, so listing dates mislead."
+            },
+            {
+              "label": "Patches",
+              "detail": "Most update and patch dates remain undated or approximate in public records."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/sublustrum-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Sublustrum System Requirements",
+          "description": "A hardware and platform overview covering supported systems, input methods, and community workarounds. It targets users checking whether their device can run the game.",
+          "href": "/details/sublustrum-platforms",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "OS",
+              "detail": "Windows PC is the only officially documented platform for Sublustrum."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Input",
+              "detail": "Mouse-driven point-and-click controls; no controller support is documented."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Linux",
+              "detail": "Runs through Wine or Proton as a community workaround, not an official build."
+            },
+            {
+              "label": "macOS",
+              "detail": "Requires a Windows virtual machine; no native build is documented."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sublustrum Trailer Gallery",
+          "description": "A media module featuring the official trailer, screenshots, and soundtrack. It helps users explore the game's atmosphere, visuals, and artistic direction.",
+          "href": "/media/sublustrum-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "A dialogue-free, atmospheric clip that sells the mood over any mechanics."
+            },
+            {
+              "label": "Screens",
+              "detail": "Muted monochrome art and surreal machinery define the visual direction."
+            },
+            {
+              "label": "Soundtrack",
+              "detail": "Ambient drones and sparse motifs carry the game's dread and loneliness."
+            },
+            {
+              "label": "Voice Cast",
+              "detail": "Voice work stays minimal, matching the near-wordless storytelling."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sublustrum Community Updates",
+          "description": "This module gathers community channels, remake and re-release news, and preservation notes. It helps players follow future updates and keep legacy builds running.",
+          "href": "/details/sublustrum-remake",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "News",
+              "detail": "Follow remake and re-release announcements for the cult adventure."
+            },
+            {
+              "label": "Forums",
+              "detail": "Player threads document fixes for running legacy builds on modern PCs."
+            },
+            {
+              "label": "Databases",
+              "detail": "MobyGames and IGDB entries help cross-check release and platform facts."
+            },
+            {
+              "label": "Archives",
+              "detail": "Community archives keep the original builds and manuals available."
             }
           ]
         }
@@ -308,23 +382,23 @@
       "items": [
         {
           "question": "What is Sublustrum?",
-          "answer": "Sublustrum is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Sublustrum is a first-person point-and-click adventure game developed by Phantomery Interactive and originally released in 2008. It trades combat and objective markers for atmospheric exploration, documents, and sound-driven puzzles."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Do I need combat or leveling to progress in Sublustrum?",
+          "answer": "No. Sublustrum has no combat, no leveling, and almost no interface noise. Progress comes from observing scenes, reading documents, and solving environmental and device puzzles."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How long does it take to finish Sublustrum?",
+          "answer": "Community reports suggest a single evening or a few short sessions, depending on how thoroughly you explore and how long the more abstract Sublustrum puzzles take to solve."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can I still play Sublustrum on a modern PC?",
+          "answer": "Yes. Sublustrum targets Windows PC, and most players run it today through digital re-releases, sometimes with compatibility settings for the older builds."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Sublustrum have an official hint system?",
+          "answer": "No. Sublustrum expects you to solve problems through observation and note-taking, which is why our guides focus on puzzle logic and exploration habits rather than straight spoilers."
         }
       ]
     },
