@@ -1,1 +1,480 @@
-{}
+{
+  "site": {
+    "name": "Sublustrum Wiki",
+    "shortName": "Sublustrum",
+    "tagline": "Guías completas, soluciones de puzles y guías de historia",
+    "description": "Sublustrum es una aventura de terror psicológico surrealista con exploración atmosférica, misteriosos puzles basados en el sonido y un oscuro mundo de inspiración steampunk lleno de secretos e historias ocultas.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "platforms": "Plataformas",
+    "details": "Detalles",
+    "media": "Medios",
+    "comparisons": "Comparativas"
+  },
+  "home": {
+    "meta": {
+      "title": "Sublustrum Wiki: guía, puzles y soluciones",
+      "description": "Explora Sublustrum Wiki con guías completas, soluciones de puzles, detalles de la historia, guías de juego y todo sobre esta aventura atmosférica de terror psicológico."
+    },
+    "hero": {
+      "eyebrow": "Aventura de terror psicológico y puzles",
+      "title": "Sublustrum Wiki",
+      "description": "Sublustrum es un juego de aventura psicológica surrealista con exploración atmosférica, misteriosos puzles basados en el sonido y un oscuro mundo de inspiración steampunk lleno de secretos e historias ocultas.",
+      "stats": [
+        "100K+ jugadores",
+        "30+ puzles disponibles",
+        "Steam (PC)",
+        "Actualizaciones ocasionales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Soluciones de puzles",
+      "tertiaryCta": "Tráiler oficial",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por Sublustrum",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende los controles, los hábitos de exploración y la lógica de los puzles que hacen que Sublustrum sea accesible desde la primera escena."
+        },
+        {
+          "number": "2",
+          "title": "Soluciones de puzles",
+          "description": "Analiza los puzles de dispositivos, símbolos y entorno con estrategias prácticas en lugar de la fuerza bruta."
+        },
+        {
+          "number": "3",
+          "title": "Guía completa",
+          "description": "Sigue una ruta escena por escena por el juego para esos momentos en que una habitación se niega a revelar su secreto."
+        },
+        {
+          "number": "4",
+          "title": "Final explicado",
+          "description": "Comprende el ambiguo final, la lógica onírica de la historia y lo que realmente te decían los documentos."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Soluciones de puzles",
+        "Guía completa",
+        "Final explicado"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Los controles, los hábitos de exploración y la lógica de los puzles que hacen Sublustrum accesible desde la primera escena.",
+          "href": "/guide/sublustrum-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Soluciones de puzles",
+          "description": "Soluciones de puzles de dispositivos, símbolos y entorno explicadas sin fuerza bruta.",
+          "href": "/guide/sublustrum-puzzle-solutions"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía completa",
+          "description": "Una ruta escena por escena por Sublustrum cuando una habitación se niega a revelar su secreto.",
+          "href": "/guide/sublustrum-walkthrough"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Historia explicada",
+          "description": "Cómo Sublustrum narra su historia a través del lugar, los documentos y la lógica onírica.",
+          "href": "/mechanics/sublustrum-story"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Final explicado",
+          "description": "Qué deja abierto el ambiguo final de Sublustrum y por qué esa es precisamente la cuestión.",
+          "href": "/guide/sublustrum-ending-explained"
+        },
+        {
+          "badge": "Popular",
+          "title": "Atmósfera y terror",
+          "description": "Por qué Sublustrum inquieta con silencio, luz y ambigüedad en lugar de sustos repentinos.",
+          "href": "/mechanics/sublustrum-atmosphere"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Fecha de lanzamiento",
+          "description": "Lo que se sabe sobre la fecha de lanzamiento de Sublustrum, las regiones y los relanzamientos digitales.",
+          "href": "/details/sublustrum-release-date"
+        },
+        {
+          "badge": "Popular",
+          "title": "Plataformas y sistemas",
+          "description": "Plataformas compatibles con Sublustrum y soluciones para PC antiguos.",
+          "href": "/details/sublustrum-platforms"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Tráiler oficial",
+          "description": "Análisis del tráiler de Sublustrum sin diálogos y su dirección artística monocromática.",
+          "href": "/media/sublustrum-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Sublustrum?",
+      "paragraphs": [
+        "Sublustrum es una aventura point-and-click en primera persona desarrollada por el pequeño estudio independiente Phantomery Interactive y lanzada originalmente en 2008. Cambia el combate, la subida de nivel y los marcadores de objetivos por una exploración atmosférica de escenas estáticas prerrenderizadas que giras, examinas y vas reconstruyendo poco a poco.",
+        "La historia se cuenta de forma indirecta, a través de la arquitectura, los documentos y secuencias oníricas en lugar de cinemáticas. Nuestra Sublustrum Wiki reúne guías, soluciones de puzles, análisis de la historia y notas de plataformas para que puedas perderte en la atmósfera y no en la interfaz."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Phantomery Interactive"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows PC"
+        },
+        {
+          "label": "Género",
+          "value": "Aventura point-and-click"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "2008"
+        },
+        {
+          "label": "Perspectiva",
+          "value": "Primera persona por nodos"
+        },
+        {
+          "label": "Combate",
+          "value": "Ninguno"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Sublustrum Wiki",
+      "description": "Sublustrum es una aventura lenta y atmosférica construida sobre la observación y la lógica de los puzles. Estos módulos reúnen los antecedentes de la historia, los hábitos de principiante, las familias de puzles, los detalles de lanzamiento y los medios que los nuevos jugadores buscan primero.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de historia de Sublustrum",
+          "description": "Este módulo explica los antecedentes narrativos del juego, su entorno aislado y los grandes temas de la historia. Ayuda a los jugadores a comprender la estructura de la aventura psicológica antes de jugar.",
+          "href": "/mechanics/sublustrum-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Narrativa",
+              "detail": "La historia llega a través de lugares, documentos y lógica onírica en lugar de cinemáticas o narración."
+            },
+            {
+              "label": "Aislamiento",
+              "detail": "Las salas vacías y la ausencia de personajes crean una sensación silenciosa e inquietante de soledad."
+            },
+            {
+              "label": "Memoria",
+              "detail": "Los espacios en ruinas y los registros incompletos transmiten el tema de la memoria y la decadencia."
+            },
+            {
+              "label": "Ambigüedad",
+              "detail": "El final se resiste a una única lectura y recompensa la reflexión paciente."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de Sublustrum",
+          "description": "Una guía para principiantes que cubre los conceptos básicos de juego, los métodos de exploración, el enfoque para resolver puzles y las cosas importantes que deben saber los nuevos jugadores. Está dirigida a usuarios que buscan cómo empezar y cómo funciona el juego.",
+          "href": "/guide/sublustrum-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Gira 360 grados completos en cada escena para que ningún punto interactivo quede oculto tras la cámara por defecto."
+            },
+            {
+              "label": "2",
+              "detail": "Mira hacia arriba y hacia abajo en cada vista; los techos, suelos y estanterías guardan objetos."
+            },
+            {
+              "label": "3",
+              "detail": "Examina cada punto interactivo, incluso los aburridos, porque algunos objetos solo importan más adelante."
+            },
+            {
+              "label": "4",
+              "detail": "Lee por completo cada documento legible y anota los códigos, símbolos y fechas que contenga."
+            },
+            {
+              "label": "5",
+              "detail": "Registra símbolos, números y colores; el juego rara vez repite sus pistas."
+            },
+            {
+              "label": "6",
+              "detail": "Mantén varias ranuras de guardado y altérnalas antes de intentar cualquier acción destructiva."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de puzles de Sublustrum",
+          "description": "Esta sección ofrece soluciones y explicaciones de los puzles basados en el sonido, las interacciones con el entorno y los desafíos de dispositivos. Clasifica las familias de puzles según la frecuencia con que bloquean a los nuevos jugadores.",
+          "href": "/mechanics/sublustrum-puzzles",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Observación del entorno: los interruptores ocultos y las señales de luz o sonido bloquean a la mayoría."
+            },
+            {
+              "label": "A",
+              "detail": "Símbolos y cifrados: las secuencias de glifos y las marcas coincidentes exigen tomar notas con cuidado."
+            },
+            {
+              "label": "B",
+              "detail": "Alineación espacial: los anillos giratorios y los caminos reflejados ponen a prueba la rotación mental."
+            },
+            {
+              "label": "C",
+              "detail": "Dispositivos mecánicos: diales, palancas y válvulas que se resuelven siguiendo causa y efecto."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Características de juego de Sublustrum",
+          "description": "Una visión estructurada de los sistemas de juego, incluida la exploración en primera persona, la investigación atmosférica, la lectura de documentos y las mecánicas basadas en el sonido. Este módulo apunta a búsquedas sobre jugabilidad y mecánicas.",
+          "href": "/mechanics/sublustrum-atmosphere",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Explorar",
+              "detail": "Movimiento en primera persona por nodos entre vistas estáticas prerrenderizadas."
+            },
+            {
+              "label": "Inspeccionar",
+              "detail": "Un cursor que cambia de forma marca los puntos interactivos de cada escena."
+            },
+            {
+              "label": "Documentos",
+              "detail": "Las notas y registros contienen trasfondo, pistas y relatos deliberadamente contradictorios."
+            },
+            {
+              "label": "Sonido",
+              "detail": "Los zumbidos ambientales y los largos silencios sirven como señales de navegación, no solo como atmósfera."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Información de lanzamiento de Sublustrum",
+          "description": "Este módulo reúne detalles de lanzamiento, regiones, el historial de tiendas digitales y notas de parches. Ayuda a captar a usuarios que buscan la fecha de lanzamiento y la disponibilidad.",
+          "href": "/details/sublustrum-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "El lanzamiento original para Windows PC se sitúa generalmente en 2008, seguido de relanzamientos digitales."
+            },
+            {
+              "label": "Regiones",
+              "detail": "El lanzamiento en ruso llegó primero, y las ediciones en inglés aparecieron después."
+            },
+            {
+              "label": "Tiendas",
+              "detail": "Las páginas de tiendas digitales se añadieron años después del lanzamiento, así que las fechas de los listados engañan."
+            },
+            {
+              "label": "Parches",
+              "detail": "La mayoría de las fechas de actualizaciones y parches siguen sin fecha o son aproximadas en los registros públicos."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Requisitos del sistema de Sublustrum",
+          "description": "Una visión general del hardware y las plataformas que cubre los sistemas compatibles, los métodos de entrada y las soluciones de la comunidad. Está dirigida a usuarios que comprueban si su dispositivo puede ejecutar el juego.",
+          "href": "/details/sublustrum-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SO",
+              "detail": "Windows PC es la única plataforma documentada oficialmente para Sublustrum."
+            },
+            {
+              "label": "Entrada",
+              "detail": "Controles point-and-click con ratón; no hay soporte de mando documentado."
+            },
+            {
+              "label": "Linux",
+              "detail": "Funciona mediante Wine o Proton como solución de la comunidad, no como versión oficial."
+            },
+            {
+              "label": "macOS",
+              "detail": "Requiere una máquina virtual de Windows; no hay versión nativa documentada."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Galería de tráilers de Sublustrum",
+          "description": "Un módulo de medios con el tráiler oficial, capturas y banda sonora. Ayuda a los usuarios a explorar la atmósfera, lo visual y la dirección artística del juego.",
+          "href": "/media/sublustrum-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tráiler",
+              "detail": "Un clip atmosférico sin diálogos que vende el ambiente por encima de cualquier mecánica."
+            },
+            {
+              "label": "Capturas",
+              "detail": "El arte monocromático apagado y la maquinaria surrealista definen la dirección visual."
+            },
+            {
+              "label": "Banda sonora",
+              "detail": "Los zumbidos ambientales y los motivos escasos transmiten el miedo y la soledad del juego."
+            },
+            {
+              "label": "Reparto de voces",
+              "detail": "El trabajo de voz es mínimo, en consonancia con la narración casi sin palabras."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones de la comunidad de Sublustrum",
+          "description": "Este módulo reúne canales de la comunidad, noticias sobre el remake y los relanzamientos, y notas de preservación. Ayuda a los jugadores a seguir futuras actualizaciones y a mantener en marcha las versiones antiguas.",
+          "href": "/details/sublustrum-remake",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Noticias",
+              "detail": "Sigue los anuncios del remake y los relanzamientos de esta aventura de culto."
+            },
+            {
+              "label": "Foros",
+              "detail": "Los hilos de jugadores documentan arreglos para ejecutar versiones antiguas en PC modernos."
+            },
+            {
+              "label": "Bases de datos",
+              "detail": "Las entradas de MobyGames e IGDB ayudan a contrastar datos de lanzamiento y plataformas."
+            },
+            {
+              "label": "Archivos",
+              "detail": "Los archivos de la comunidad mantienen disponibles las versiones originales y los manuales."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Sublustrum.",
+      "items": [
+        {
+          "question": "¿Qué es Sublustrum?",
+          "answer": "Sublustrum es una aventura point-and-click en primera persona desarrollada por Phantomery Interactive y lanzada originalmente en 2008. Cambia el combate y los marcadores de objetivos por la exploración atmosférica, los documentos y los puzles basados en el sonido."
+        },
+        {
+          "question": "¿Necesito combate o subir de nivel para avanzar en Sublustrum?",
+          "answer": "No. Sublustrum no tiene combate, ni subida de nivel, y casi ningún ruido de interfaz. El progreso viene de observar las escenas, leer documentos y resolver puzles de entorno y de dispositivos."
+        },
+        {
+          "question": "¿Cuánto se tarda en terminar Sublustrum?",
+          "answer": "Los informes de la comunidad sugieren una tarde o unas pocas sesiones cortas, según lo a fondo que explores y lo que tarden los puzles más abstractos de Sublustrum."
+        },
+        {
+          "question": "¿Puedo seguir jugando a Sublustrum en un PC moderno?",
+          "answer": "Sí. Sublustrum está pensado para Windows PC, y la mayoría de los jugadores lo ejecutan hoy mediante relanzamientos digitales, a veces con ajustes de compatibilidad para las versiones más antiguas."
+        },
+        {
+          "question": "¿Tiene Sublustrum un sistema de pistas oficial?",
+          "answer": "No. Sublustrum espera que resuelvas los problemas mediante la observación y las notas, por eso nuestras guías se centran en la lógica de los puzles y los hábitos de exploración en lugar de en spoilers directos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar Sublustrum?",
+      "description": "Desde tu primer descenso al subconsciente hasta los puzles finales basados en el sonido, nuestra wiki comunitaria te acompaña con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Sublustrum",
+    "overviewDescription": "Empieza aquí: guías de Sublustrum, consejos para principiantes y soluciones paso a paso que te mantienen avanzando sin estropear la atmósfera."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Sublustrum",
+    "overviewDescription": "Cómo funciona realmente Sublustrum: puzles basados en el sonido, lógica onírica, hábitos de inventario y los sistemas narrativos detrás de su terror pausado."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Sublustrum",
+    "overviewDescription": "Todos los lugares donde puedes jugar a Sublustrum hoy, desde Steam, GOG y Windows PC hasta las plataformas de consola y portátiles por las que preguntan los jugadores."
+  },
+  "details": {
+    "overviewTitle": "Detalles del juego Sublustrum",
+    "overviewDescription": "Fechas de lanzamiento, el estreno original de 2008, la experiencia en PC de 2026 y todo lo conocido sobre el tan rumoreado remake de Sublustrum."
+  },
+  "media": {
+    "overviewTitle": "Medios de Sublustrum",
+    "overviewDescription": "Tráilers de Sublustrum, banda sonora atmosférica, música y la decisión deliberada de contar su historia sin un reparto de voces tradicional."
+  },
+  "comparisons": {
+    "overviewTitle": "Comparativas de Sublustrum",
+    "overviewDescription": "Cómo se compara Sublustrum con Myst, Outcry y otras aventuras atmosféricas de puzles en primera persona que merece la pena jugar después."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "quickStart": "Inicio rápido",
+    "beginnerGuide": "Guía para principiantes",
+    "beginnerGuideHint": "Controles, hábitos de exploración y la lógica de los primeros puzles.",
+    "puzzleGuide": "Soluciones de puzles",
+    "puzzleGuideHint": "Guías de puzles de dispositivos, símbolos y entorno.",
+    "viewAllGuides": "Ver todas las guías",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Sublustrum Wiki",
+    "about": "Sublustrum Wiki es un centro de guías independiente creado por fans que cubre guías, soluciones de puzles basados en el sonido, detalles de la historia y conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Sublustrum Wiki. No está afiliada a Brickworks Games, HypeTrain Digital ni Steam.",
+    "description": "Aventura surrealista de terror psicológico en PC. Explora el subconsciente, resuelve puzles basados en el sonido y descubre una verdad oculta.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Comunidad de Steam",
+    "officialYoutube": "Tráiler oficial",
+    "guide": "Guía de Sublustrum",
+    "mechanics": "Mecánicas",
+    "platforms": "Plataformas",
+    "media": "Medios",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
