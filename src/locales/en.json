@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "details": "Details",
+    "media": "Media",
+    "comparisons": "Comparisons"
   },
   "home": {
     "meta": {
@@ -409,13 +415,39 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Sublustrum Guides",
+    "overviewDescription": "Start here for Sublustrum walkthroughs, beginner tips, and step-by-step puzzle solutions that keep you moving without spoiling the atmosphere."
+  },
+  "mechanics": {
+    "overviewTitle": "Sublustrum Mechanics",
+    "overviewDescription": "How Sublustrum actually works: sound-driven puzzles, dream logic, inventory habits, and the narrative systems behind its slow-burn horror."
+  },
+  "platforms": {
+    "overviewTitle": "Sublustrum Platforms",
+    "overviewDescription": "Every place you can play Sublustrum today, from Steam, GOG, and Windows PC to the console and handheld platforms players keep asking about."
+  },
+  "details": {
+    "overviewTitle": "Sublustrum Game Details",
+    "overviewDescription": "Release dates, the original 2008 launch, the 2026 PC experience, and everything known about the long-rumored Sublustrum remake."
+  },
+  "media": {
+    "overviewTitle": "Sublustrum Media",
+    "overviewDescription": "Sublustrum trailers, ambient soundtrack, music, and the deliberate decision to tell its story without a traditional voice cast."
+  },
+  "comparisons": {
+    "overviewTitle": "Sublustrum Comparisons",
+    "overviewDescription": "How Sublustrum compares to Myst, Outcry, and other atmospheric first-person puzzle adventures worth playing next."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "quickStart": "Quick Start",
+    "beginnerGuide": "Beginner Guide",
+    "beginnerGuideHint": "Controls, exploration habits, and first puzzle logic.",
+    "puzzleGuide": "Puzzle Solutions",
+    "puzzleGuideHint": "Device, symbol, and environmental puzzle walkthroughs.",
+    "viewAllGuides": "View all guides",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -438,11 +470,10 @@
     "playGame": "Play on Steam",
     "officialDiscord": "Steam Community",
     "officialYoutube": "Official Trailer",
-    "vvBuilder": "Community Guides",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "guide": "Sublustrum Guide",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "media": "Media",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
